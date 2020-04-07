@@ -1,0 +1,12 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Launch" type="RunNativeExe" factoryName="Native Executable">
+    <option name="EXE_PATH" value="C:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.6/bin/win_x64/GameLauncher.exe " />
+    <option name="PROGRAM_PARAMETERS" value="-project $PROJECT_DIR$/Game.cryproject -monoDebuggerPort 17877  -monoSuspend 1 -remoteConsolePort 4605" />
+    <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/Crytek/CRYENGINE Launcher/Crytek/CRYENGINE_5.6/bin/win_x64" />
+    <option name="PASS_PARENT_ENVS" value="1" />
+    <option name="USE_EXTERNAL_CONSOLE" value="0" />
+    <method v="2">
+      <option name="Build Solution" enabled="true" />
+    </method>
+  </configuration>
+</component>
